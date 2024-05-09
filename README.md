@@ -1,27 +1,46 @@
-Dino Image Classifier
+# Dino Image Classifier
+
 Este proyecto consiste en una pequeña aplicación web que utiliza Teachable Machine para clasificar imágenes de dinosaurios. La aplicación permite a los usuarios enviar una URL de imagen de un dinosaurio y muestra las predicciones de la clasificación.
 
-Requisitos previos
+## Requisitos previos
+
 Se requiere tener Node.js instalado en tu sistema.
 
-Instalación
-Clona este repositorio en tu máquina local utilizando Git:
+## Instalación
 
-git clone https://github.com/Nicolas-ok/LearningMachine1
-Navega al directorio del proyecto:
-cd LearningMachine1
+1. Clona este repositorio en tu máquina local utilizando Git:
 
-Instala las dependencias del proyecto utilizando npm:
-npm install
+    ```
+    git clone https://github.com/Nicolas-ok/LearningMachine1
+    ```
 
-Uso
-Inicia la aplicación ejecutando el siguiente comando:
-npm start
+2. Navega al directorio del proyecto:
 
-Abre tu navegador web y visita http://localhost:3000. Completa el formulario con la URL de una imagen de un dinosaurio y haz clic en "Predict Dino" para ver las predicciones.
+    ```
+    cd LearningMachine1
+    ```
 
-Contribución
+3. Instala las dependencias del proyecto utilizando npm:
+
+    ```
+    npm install
+    ```
+
+## Uso
+
+1. Inicia la aplicación ejecutando el siguiente comando:
+
+    ```
+    npm start
+    ```
+
+2. Abre tu navegador web y visita [http://localhost:3000](http://localhost:3000).
+3. Completa el formulario con la URL de una imagen de un dinosaurio y haz clic en "Predict Dino" para ver las predicciones.
+
+## Contribución
+
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes sugerencias de mejora, por favor abre un issue o envía un pull request.
 
-Licencia
+## Licencia
+
 Este proyecto está licenciado bajo la Licencia MIT.
