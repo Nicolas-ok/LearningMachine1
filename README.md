@@ -1,6 +1,10 @@
 # Dino Image Classifier
 
 Este proyecto consiste en una pequeña aplicación web que utiliza Teachable Machine para clasificar imágenes de dinosaurios. La aplicación permite a los usuarios enviar una URL de imagen de un dinosaurio y muestra las predicciones de la clasificación.
+Por el momento soo soporta 3 dinosaurios:
+- T-Rex
+- Stegosaurus
+- Spinosaurus
 
 ## Requisitos previos
 
